@@ -1,5 +1,6 @@
 body {
   background-color: rgb(255, 254, 254);
+  margin-top: 300px;
 }
 
 .background {
@@ -10,6 +11,7 @@ body {
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
   padding: 30px;
+  margin-top: 15px;
 }
 .dark-theme {
   background: rgb(201, 201, 201);
