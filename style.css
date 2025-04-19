@@ -1,6 +1,5 @@
 body {
   background-color: rgb(255, 254, 254);
-  margin-top: 100px;
 }
 
 .background {
@@ -40,5 +39,11 @@ h1 {
 .howling-wolf-silhouette {
   max-width: 400px;
   display: block;
-  margin: 0 auto;
+  margin: -500px auto;
+}
+
+.container-text {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgba(0, 0, 0, 0.6);
+  margin: 0 50 0 50px;
 }
