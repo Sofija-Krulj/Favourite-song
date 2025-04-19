@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(255, 254, 254);
+}
+
+.background {
+  background: white;
+  max-width: 1000px;
+  height: 300px;
+  margin: 200px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  padding: 30px;
+}
+.dark-theme {
+  margin: 5px auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 80px auto;
+}
