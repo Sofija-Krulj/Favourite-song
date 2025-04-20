@@ -36,14 +36,3 @@ h1 {
   font-size: 18px;
   color: rgba(0, 0, 0, 0.6);
 }
-.howling-wolf-silhouette {
-  max-width: 400px;
-  display: block;
-  margin: -500px auto;
-}
-
-.container-text {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: rgba(0, 0, 0, 0.6);
-  margin: 0 50 0 50px;
-}
