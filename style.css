@@ -37,12 +37,10 @@ h1 {
   color: rgba(0, 0, 0, 0.6);
 }
 
-.text-container {
-  display: flex;
-}
-
 .wolf-1 {
   max-width: 20%;
-  border-radius: 10px;
-  margin: -80px 550px;
+  margin: -5px 50px;
+}
+
+.background-zwei {
 }
