@@ -68,7 +68,7 @@ p {
 
 iframe {
   border-radius: 3%;
-  margin-left: 535px;
+  margin-left: 530px;
 }
 
 .img-galery {
@@ -118,10 +118,9 @@ iframe {
   margin-top: 20px;
 }
 h2 {
-  margin-left: 150px;
   padding: 15px 0 0 0;
   margin-top: -20px;
-  margin-left: 50px;
+  margin-left: -20px;
   text-align: center;
   font-size: 24px;
   font-family: "Roboto", sans-serif;
