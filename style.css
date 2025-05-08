@@ -1,7 +1,13 @@
 body {
   background-color: rgb(255, 252, 252);
 }
-
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
 .background {
   background: white;
   max-width: 1000px;
@@ -110,6 +116,19 @@ iframe {
   border-radius: 16px;
   padding: 30px;
   margin-top: 20px;
+}
+h2 {
+  margin-left: 150px;
+  padding: 15px 0 0 0;
+  margin-top: -20px;
+  margin-left: 50px;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
 }
 .text-zwei {
   size: 16px;
