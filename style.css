@@ -155,5 +155,5 @@ h2 {
   margin-top: 60px;
 }
 .dark-configuration .background {
-  background-color: linear-gradient(to right, #505252, #f8f8f8);
+  color: linear-gradient(to right, #505252, #f8f8f8);
 }
