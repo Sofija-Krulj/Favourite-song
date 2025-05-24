@@ -170,3 +170,17 @@ h2 {
   font-size: 24px;
   color: rgb(255, 252, 252);
 }
+
+.dark-configuration h2 {
+  padding: 15px 0 0 0;
+  margin-top: -20px;
+  margin-left: -20px;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  color: rgb(255, 252, 252);
+}
